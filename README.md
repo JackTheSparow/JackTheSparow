@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JackTheSparow
-- 👀 I’m interested in CyberSecurity
+- 👀 I’m interested in CyberSecurity & AI
 
 <!---
 JackTheSparow/JackTheSparow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
